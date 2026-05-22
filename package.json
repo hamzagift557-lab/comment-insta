@@ -1,0 +1,14 @@
+{
+  "name": "domino-store-ig-bot",
+  "version": "1.0.0",
+  "description": "Instagram Auto Reply & DM Bot for DOMINO STORE",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "sqlite3": "^5.1.7"
+  }
+}
